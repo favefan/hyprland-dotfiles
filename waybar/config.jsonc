@@ -6,7 +6,7 @@
     "layer": "top",
     "position": "bottom",
     "mod": "dock",
-    "height": 42,
+    "height": 44,
     "margin-bottom": 5,
     "margin-left": 16,
     "margin-right": 16,
@@ -131,8 +131,8 @@
     },
 
     "clock": {
-        "format": "{:%I:%M %p 󰃭 %a %d}",
-        "format-alt": "{:%H:%M  %b %Y}",
+        "format": "{:%H:%M 󰃭 %Y-%m-%d}",
+        //"format-alt": "{:%H:%M  %b %Y}",
         "tooltip-format": "<tt><big>{calendar}</big></tt>"
     },
 
